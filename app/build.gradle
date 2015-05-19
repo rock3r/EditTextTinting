@@ -1,5 +1,4 @@
 apply plugin: 'com.android.application'
-apply plugin: 'com.zeroturnaround.jrebel.android'
 
 android {
     compileSdkVersion 22
