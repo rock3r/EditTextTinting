@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="background">#ffffff</color>
+  <color name="controlColorNormal">#bb0000</color>
+  <color name="controlColorActivated">@color/controlColorNormal</color>
+
+</resources>
